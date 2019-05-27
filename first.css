@@ -29,10 +29,12 @@ header li {
 }
 
 .main {
-  padding: 100px 80px 0 80px;
+  padding-top: 100px;
+  background-color: #2f5167;
 }
 .main h1 {
   font-size: 140px;
+    padding-left: 80px;
 }
 .main-span-w {
   color: red;
@@ -58,5 +60,10 @@ header li {
 .main h2 {
   font-size: 60px;
   background-color: #26d0c9;
+  color: white;
+  padding-left: 350px;
+}
+.contact-form {
+  background-color: red;
   color: white;
 }
